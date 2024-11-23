@@ -4,7 +4,7 @@
   "description": "Mumzworld web testcases",
   "main": "index.js",
   "repository": "https://github.com/prgupta1995/mumzworld_QA.git",
-  "author": "Priyanka Gupta <priyanka.gupta881995@gmail.com>",
+  "author": "Priyanka Madan Lal <priyanka.gupta881995@gmail.com>",
   "license": "MIT",
   "scripts": {
     "cypress:open": "cypress open",
