@@ -17,7 +17,8 @@ module.exports = defineConfig({
     },
     specPattern: "cypress/e2e/features/*.feature",
     chromeWebSecurity: false,
-    baseUrl: 'http://www.mumzworld.com/', // Base URL for web homepage
+    baseUrl: 'https://www.mumzworld.com/', // Base URL for web homepage
+    defaultCommandTimeout: 10000,
   },
 });
 
